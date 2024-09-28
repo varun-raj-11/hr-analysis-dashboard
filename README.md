@@ -41,5 +41,5 @@ Expanded Time Period: Adding data for more recent years.
 Additional Filters: Including filters for department, gender, and other key demographics.
 
 Visit : https://newstree24.com/2024/08/18/hr-analysis-dashboard/ 
-to see statis dashboard.
+to see static dashboard on web.
 
